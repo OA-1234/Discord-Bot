@@ -137,5 +137,5 @@ async def play(ctx, url : str):
 
   ctx.voice_client.play(discord.FFmpegPCMAudio(url))
 
-
-client.run('ODM5ODI3NzE3NjU0NTc3MTgz.YJPUgw.CMrluDGUb44SkdAAraSvczYGq3A')
+#Add your token in the single quotes
+client.run('')
